@@ -39,4 +39,3 @@ console.log(10 % 2);
 console.log(15 % 4);
 
 console.log(12 % 2 === 0);
-
