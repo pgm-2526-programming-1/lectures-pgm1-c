@@ -7,4 +7,3 @@ console.log(courses.indexOf("web1"))
 
 const mixedArr = ["Twee", 2, true, { name: "Asher" , age: 19}]
 console.log(mixedArr[3].age)
-
