@@ -24,7 +24,6 @@ for (let i = 0; i < 6000; i++){
         height: ${randomWidth}px;
         background-color: ${randomColor};"
     ></div>`
-
 }
 
 $circles.innerHTML = html;
