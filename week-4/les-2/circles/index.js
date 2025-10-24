@@ -10,7 +10,7 @@ function generateRandomNumber(max) {
 
 let html = "";
 
-for (let i = 0; i < 6000; i++){
+for (let i = 0; i < 1500; i++){
     const randomColor = colors[generateRandomNumber(colors.length - 1)]
     const randomWidth = generateRandomNumber(60);
     const randomTop = generateRandomNumber(window.innerHeight - randomWidth)
